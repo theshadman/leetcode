@@ -4,7 +4,7 @@ import java.util.Map;
 public class p_13 {
 
     public static void main(String [] args){
-        System.out.println("Hello world!!");
+        System.out.println(new p_13().romanToInt("IX"));
 
     }
 
